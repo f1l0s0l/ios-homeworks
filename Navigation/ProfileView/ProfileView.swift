@@ -18,18 +18,21 @@ class ProfileView: UIView {
     @IBOutlet weak var userName: UILabel! {
         didSet {
             userName.text = "Имя"
+            userName.backgroundColor = .orange
         }
     }
     
     @IBOutlet weak var userDateAge: UILabel! {
         didSet {
             userDateAge.text = "Дата рождения"
+            userDateAge.backgroundColor = .green
         }
     }
     
     @IBOutlet weak var userSity: UILabel! {
         didSet {
             userSity.text = "Город"
+            userSity.backgroundColor = .purple
         }
     }
     
