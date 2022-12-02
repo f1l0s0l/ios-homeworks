@@ -70,8 +70,8 @@
 				A47EE4E52937851500A3DB75 /* SceneDelegate.swift */,
 				A47EE4FE2937884600A3DB75 /* ProfileViewController.swift */,
 				A47EE4FC2937880C00A3DB75 /* Profile.storyboard */,
-				A47EE4EC2937851800A3DB75 /* Assets.xcassets */,
 				A47EE4EE2937851800A3DB75 /* LaunchScreen.storyboard */,
+				A47EE4EC2937851800A3DB75 /* Assets.xcassets */,
 				A47EE4F12937851800A3DB75 /* Info.plist */,
 			);
 			path = Navigation;
